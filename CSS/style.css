@@ -1,0 +1,69 @@
+main {
+    width: 20%;
+    margin: auto;
+}
+.guri {
+    margin-left: 25%;
+}
+h1 {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 600px;
+    border-radius: 10px;
+    background-color: red;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+}
+
+h2, h4, h6 {
+    width: 400px;
+    height: 80px;
+    margin-top: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 29px;
+    color: whitesmoke;
+    background-color: red;
+    border-radius: 10px;
+}
+body {
+    background-color: lightgray;
+    background-image: url("../images/pandemic\ covid.png");
+    
+}
+p {
+    background-color: rgb(49, 47, 47);
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color: whitesmoke;
+    border-radius: 10px;
+    width: 900px;
+    height: 50px;
+}
+h3, h5 {
+    width: 400px;
+    height: 80px;
+    margin-top: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color: whitesmoke;
+    background-color: rgb(175, 1, 1);
+    border-radius: 10px;
+}
+img {
+    width: 300px;
+    height: auto;
+    
+}
